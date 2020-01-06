@@ -1,0 +1,7 @@
+C:\Users\navi\source\repos\Laboratory2\Laboratory1\bin\Debug\Laboratory1.exe.config
+C:\Users\navi\source\repos\Laboratory2\Laboratory1\bin\Debug\Laboratory1.exe
+C:\Users\navi\source\repos\Laboratory2\Laboratory1\bin\Debug\Laboratory1.pdb
+C:\Users\navi\source\repos\Laboratory2\Laboratory1\obj\Debug\Laboratory2.csproj.CoreCompileInputs.cache
+C:\Users\navi\source\repos\Laboratory2\Laboratory1\obj\Debug\Laboratory1.exe
+C:\Users\navi\source\repos\Laboratory2\Laboratory1\obj\Debug\Laboratory1.pdb
+C:\Users\navi\source\repos\Laboratory2\Laboratory1\obj\Debug\Laboratory2.csprojAssemblyReference.cache
